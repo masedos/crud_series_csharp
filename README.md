@@ -4,6 +4,8 @@
 
 [Criando um APP simples de cadastro de séries em .NET](https://web.digitalinnovation.one/lab/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/learning/9c159553-9c06-4558-8e84-5ab54bed51d8)
 
+[Certificado](https://hermes.digitalinnovation.one/certificates/51EF78B7.pdf)
+
 Para criar a App...
 
 ```sh
